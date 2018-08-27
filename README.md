@@ -6,3 +6,5 @@
 - [x] video preview edit
 ## COMMIT 3
 - [x] 迁移分支
+## COMMIT 4
+- [x] run test
